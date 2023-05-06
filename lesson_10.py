@@ -10,7 +10,7 @@
 #
 # result = longestNiceSubstring(s)
 # print(result)
-s = "b"
+s = "ba"
 t = "c"
 # b = ''
 # for i in s:
